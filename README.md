@@ -51,4 +51,3 @@ This repository is an independent collection of projects created using the CrowP
 
 Unless otherwise stated, the code in this repository is provided for learning and educational purposes.
 
-.
