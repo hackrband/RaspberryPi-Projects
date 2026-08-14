@@ -10,6 +10,8 @@ CrowPi2 projects are essentially Raspberry Pi projects that make use of the Crow
 
 **The following project** may use a Raspberry Pi with external components.
 
+**Note:** Full release on 8.22.26
+
 ## Modules & Components
 
 The projects may use the following CrowPi2 hardware:
