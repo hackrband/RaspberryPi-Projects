@@ -2,8 +2,8 @@
 
 A collection of Python projects and experiments made with the **CrowPi2** and Raspberry Pi.
 
-_Purpose: Hackrband fixed all issues within the stock projects given by Crowpi2 Learning.
-_
+_Purpose: Hackrband fixed all issues within the stock projects given by Crowpi2 Learning._
+
 ## About
 
 These projects explore Python programming, electronics, sensors, and the different hardware modules built into the CrowPi2.
